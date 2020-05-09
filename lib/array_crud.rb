@@ -1,6 +1,6 @@
 def create_an_empty_array
-  A = []
-  A 
+  ar = []
+  ar 
 end
 
 def create_an_array
